@@ -1,0 +1,4 @@
+include ':jetpackt'
+include ':network'
+include ':app'
+rootProject.name = "YoungApplication"

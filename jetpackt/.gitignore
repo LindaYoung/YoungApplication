@@ -1,0 +1,17 @@
+*.iml
+.gradle
+.svn
+/.cxx
+/.externalNativeBuild
+/build
+/src/androidTest
+/src/test
+/mapping.txt
+/seeds.txt
+/unused.txt
+/.idea
+/.gradle
+.idea/
+.gradle/
+captures/
+build/
